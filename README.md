@@ -23,41 +23,34 @@
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
+### 💻 Languages I Work With
 `Java` • `Python` • `JavaScript` • `SQL`
 
-### 🎨 Web
+### 🌐 Web Technologies
 `HTML` • `CSS`
 
-### 🔧 Tools & Platforms
+### 🔧 Tools I Use
 `Git` • `GitHub` • `VS Code` • `IntelliJ IDEA` • `Jupyter Notebook`
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Projects
 
-### 🍷 Wine Quality Prediction (Machine Learning)
-✔ Built using Python  
-✔ Applied classification techniques  
-✔ Predicts wine quality based on dataset features  
+You can explore my work directly in the repositories section of my profile.
 
-### 🎮 Game Hub (Java Based)
-✔ Tic Tac Toe  
-✔ Snake and Ladder  
-✔ Developed using core Java concepts  
+Some highlighted projects include:
+- 🍷 Wine Quality Prediction (Machine Learning)
+- 🎮 Game Hub (Java – Tic Tac Toe & Snake and Ladder)
 
----
-
-## 💼 Internships
-
-🔹 **Frontend Developer Intern** – IncuXai  
-🔹 **Trainee Software Engineer (Full Stack Web Development)** – Inventeron Technology  
+Feel free to check them out 👇  
+👉 **Repositories Tab Above**
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
-📧 ravirithanya1@gmail.com  
+📧 ravirithanya1@gmail.com
+
 
 ---
 
