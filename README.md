@@ -23,13 +23,13 @@
 
 ## 🛠 Tech Stack
 
-### 💻 Languages I Work With
-`Java` • `Python` • `JavaScript` • `SQL`
+Currently building with:
 
-### 🌐 Web Technologies
+`Java` • `Python` • `JavaScript` • `SQL`  
 `HTML` • `CSS`
 
-### 🔧 Tools I Use
+Workflow powered by:
+
 `Git` • `GitHub` • `VS Code` • `IntelliJ IDEA` • `Jupyter Notebook`
 
 ---
