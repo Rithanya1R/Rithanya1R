@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-🎓 Final Year B.E. student specializing in **Information Science and Engineering** 
+🎓 Final Year B.E. student specializing in **Information Science and Engineering** <BR>
 💡 Passionate about building real-world applications and exploring intelligent systems  
 💻 Currently gaining industry exposure through internships in frontend and full-stack development  
 
