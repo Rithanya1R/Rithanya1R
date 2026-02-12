@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm R Rithanya</h1>
-<h3 align="center">Final Year B.E. (ISE) | Aspiring Software Developer</h3>
+<h3 align="center">Final Year B.E. (ISE) | Software Developer</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 
 🎓 Final Year B.E. student specializing in **Information Science and Engineering** <BR>
 💡 Passionate about building real-world applications and exploring intelligent systems  
-💻 Currently gaining industry exposure through internships in frontend and full-stack development  
+💻 Currently exploring real-world development through industry experience  
 
 ---
 
@@ -42,8 +42,7 @@ Some highlighted projects include:
 - 🍷 Wine Quality Prediction (Machine Learning)
 - 🎮 Game Hub (Java – Tic Tac Toe & Snake and Ladder)
 
-Feel free to check them out 👇  
-👉 **Repositories Tab Above**
+👉 Check out my repositories above to explore my work.
 
 ---
 
