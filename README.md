@@ -53,7 +53,7 @@ Some highlighted projects include:
 
 ---
 
-⭐ *Always learning. Always building.*
+⭐ *Always learning. Always building.*<BR>
 Outside tech, I enjoy continuous learning and exploring creative ideas.
 
 
