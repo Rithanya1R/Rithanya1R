@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm R Rithanya</h1>
-<h3 align="center">Final Year B.E. (ISE) | Software Developer</h3>
+<h3 align="center"> B.E. in Information Science & Engineering Graduate | Software Developer</h3>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Final Year B.E. student specializing in **Information Science and Engineering** <BR>
+🎓 B.E. Graduate specializing in **Information Science and Engineering** <BR>
 💡 Passionate about building real-world applications and exploring intelligent systems  
 💻 Currently exploring real-world development through industry experience  
 
